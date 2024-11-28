@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372612281210",
+    "project_id": "fir-bloc-fc076",
+    "storage_bucket": "fir-bloc-fc076.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372612281210:android:22d20dc93246b548795cc3",
+        "android_client_info": {
+          "package_name": "com.bloc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAGVKb8IV-6WnM3BBFKNwJFnMcQJFNOKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
